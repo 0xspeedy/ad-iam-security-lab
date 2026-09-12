@@ -3,7 +3,7 @@
 **Incident ID:** INC-2026-001
 **Classification:** Account Lockout — Repeated Failed Authentication
 **Environment:** HOMELAB.LOCAL (isolated Active Directory lab)
-**Reported by:** Ahmed [Last Name], IT Support Engineer (Lab Simulation)
+**Reported by:** Ahmed Mahdy, IT Support Engineer (Lab Simulation)
 **Date of Report:** September 12, 2026
 
 ---
